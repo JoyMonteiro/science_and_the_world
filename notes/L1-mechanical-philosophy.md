@@ -46,12 +46,21 @@ We will meet this paradox again and again. It describes quite precisely what is 
 
 In 1768 the painter Joseph Wright of Derby showed Boyle's air pump being demonstrated by candlelight to a family. A bird is dying in the evacuated glass, a child hides her eyes, and the lecturer looks straight out at us. The experiment is the same one Boyle performed, but the mood is no longer one of calm reason — it is closer to wonder and unease. What happened to science when its culture changed in this way? We will take up this question in Lecture 2.
 
+## Nature of science: what climate adds
+
+**The textbook statement.** "Scientific knowledge is based on empirical evidence." The NSTA adds that, although there is no single step-by-step method, scientific approaches share "observations, rational argument, inference, skepticism, peer review, and reproducibility of the work" (NSTA 2020, p. 2).
+
+**What the climate case adds.** Boyle's programme gave Europe more than a commitment to evidence. It gave a specific picture of what *good* evidence looks like: a controlled experiment on an artificial device, repeated before witnesses whose credibility was judged partly by their social standing. That picture became the public image of science, and it is the standard against which climate science is most often found wanting. In one US study, about 70 % of science teachers "wrongly thought that for climate science to be valid, it must be primarily based on controlled experiments" (Clough & Herman 2017, p. 16). The statement "science is empirical" does not distinguish between kinds of evidence, and so it cannot help a student see why this belief is mistaken. What helps is a more specific question, of the kind Allchin and colleagues would add to a working inventory: *which* kind of evidence suits *this* phenomenon, and who is trusted to report it (2014, pp. 463, 477)? Shapin's paradox points to a second question that the list leaves out — who benefits from a claim and who pays for it — which reappears in every lecture that follows.
+
+**For the science classroom.** The controlled experiment is usually taught as *the* scientific method rather than as one method with a history. Clough and Herman argue that teachers need to understand how "methodological approaches, epistemological warrants, and other nature of science issues justifiably vary given the phenomenon being investigated" (2017, p. 22). A historical case such as Boyle's helps here because of its distance from us: it is easier to see the cultural setting of a science in another century than in one's own (Allchin et al. 2014, p. 474). Once students have seen that the experimental ideal had a time, a place and a social order behind it, they are better placed to ask whether it is the right standard for a science of the whole planet (Lecture 3).
+
 ## Key terms
 mechanical philosophy · teleology · primary/secondary qualities · proximate vs ultimate cause · natural history (in Bacon's sense) · virtual witnessing · disinterestedness
 
 ## Readings
 - **Core:** Shapin, *The Scientific Revolution* (1996), Ch. 1, sections "The Natural Machine" and "The Mathematization of Qualities"; Ch. 3, from "Nature and God" to the end of "Disinterestedness". *(Read by section; your copy may not have the printed page numbers.)*
 - **Optional:** Shapin, Ch. 2, "The Control of Experience" and "The Boundaries of Natural Knowledge". Hale, "The Taming of Nature", in *The Civilization of Europe in the Renaissance*, pp. 509–514, 532–535, 539–542.
+- **For teachers:** Clough & Herman (2017), in Shepardson et al. (eds.), *Teaching and Learning about Climate Change*, pp. 15–18 (why NOS matters for climate; the 70 % finding).
 
 ## Questions to think about
 1. Can an experiment on an artificial device (an air pump, a particle accelerator, a climate model) tell us about nature? What would have to be true for it to do so?

@@ -4,7 +4,7 @@ title: "Lecture 8 — A crisis of what, for whom?"
 
 **The question for today:** When someone makes a claim about climate, is it accountable to *evidence*, to *interest*, or to both? How do we tell?
 
-In this final lecture we first look at why calling something a "crisis" is a judgement as well as a finding. We then return to the question of scale from Lecture 4, using India to show how the same fact takes on different meanings at different scales. We close by bringing the course together around two tests that can be applied to any claim about climate, and by summarising what the course has taught us about the nature of science.
+In this final lecture we first look at why calling something a "crisis" is a judgement as well as a finding. We then return to the question of scale from Lecture 4, using India to show how the same fact takes on different meanings at different scales. We close by bringing the course together around two tests that can be applied to any claim about climate, by summarising what the course has taught us about the nature of science, and by asking what this means for science education.
 
 ## Crisis is a judgement, not only a finding
 
@@ -51,6 +51,28 @@ The historian Joshua Howe ends *Behind the Curve* with a similar lesson: "inform
 - **There is more than one way to relate to nature** — mastery (mechanism) or reverence (organising principles, the whole).
 - **There is more than one way to know.** Experiment, observation and simulation each give a different kind of confidence.
 
+## Nature of science: from the list to the case
+
+The table collects what each lecture added to the NSTA's statements (NSTA 2020, pp. 2–4).
+
+| Lecture | Textbook statement | What the climate case adds |
+|---|---|---|
+| 1 | Science is based on empirical evidence | *Which* evidence? The controlled experiment became the public image of science, and climate science is judged against it. |
+| 2 | Science uses a variety of methods; it is affected by culture | Methods came with a rank, and field science sat below experiment. Culture shaped questions, personas and patrons, but evidence decided which answers survived. |
+| 3 | Models, laws and theories explain phenomena; observation vs inference | No laws of climate. Confidence comes from agreement across the past, models, global data and time. Data and models depend on each other. |
+| 4 | Science is a way of knowing, distinct from others | The line runs through the concept of climate itself. Authority depends on the question and the scale. |
+| 5 | Knowledge is reliable *and* tentative; some subjectivity is unavoidable | Confidence can be graded and earned in public. Bias in private science is reduced by public scrutiny. |
+| 6 | Science is a human endeavour, affected by society | Influence acts through institutions — funding, panels, documents — and on what is *said*, not only on what is found. |
+| 7 | Science is reliable and revisable; affected by society | NOS statements can be used as weapons ("raise the uncertainties"). Who speaks for science, and through which channels, matters. |
+| 8 | Science addresses the natural world | Science can define a problem without settling what to do about it. The step from *is* to *ought* needs a second test. |
+
+### What this means for science education
+
+1. **Teach NOS through cases, and through more than one kind of case.** Allchin and colleagues argue that student inquiry, historical cases and contemporary cases are complementary, each with its own merits and deficits (2014, pp. 461, 473). History lets students see the cultural context of a science that is hard to see in their own (p. 474). Climate supplies contemporary cases in abundance. This course has used the first to prepare for the second.
+2. **Aim at judging claims, not at reciting tenets.** The two tests above — accountable to evidence, accountable to interest — are a version of what Allchin and colleagues call functional scientific literacy: the ability to assess "the trustworthiness and reliability of scientific claims in a public setting" (2014, p. 463).
+3. **Let the method depend on the phenomenon.** A science of one planet cannot work like a laboratory science, and teaching the controlled experiment as the only method sets climate science up to fail (Clough & Herman 2017, pp. 16, 22).
+4. **Do not oversell NOS teaching.** Clough and Herman report that students' socio-economic class and ethnicity predicted their willingness to act on climate change better than their views about how climate science works (2017, p. 21, citing Herman 2015), and that cultural identity can outweigh science comprehension (p. 19). Better NOS teaching may help students judge climate claims. Whether they then act is a further question, which brings in values and interests — and the course has argued throughout that the science classroom should keep that step visible rather than collapse it into the science.
+
 ## Key terms
 normative vs cognitive · is/ought · tornado politics · scientizing values · crisis of what / for whom · scale framing · survival vs luxury emissions · wicked problem · accountability to evidence vs to interest
 
@@ -58,6 +80,7 @@ normative vs cognitive · is/ought · tornado politics · scientizing values · 
 - **Core:** Castree (2020), "Speaking for the Earth and Humans in the 'Age of Consequences'", *Ecocene* 1(1), pp. 34–35, 37–39, 41. Hulme, Lidskog, White & Standring (2020), "Social scientific knowledge in times of crisis", *WIREs Climate Change* 11(4): e656 (5 pp.). Agarwal & Narain (1991), *Global Warming in an Unequal World*, pp. 1–18.
 - **History:** Howe, *Behind the Curve* (2014), Epilogue, pp. 197–208.
 - **Extension:** Sharma (2019) on the Phyang ice stupa. Puttick et al. (2024) on crisis framing in Indian classrooms.
+- **For teachers:** Allchin, Andersen & Nielsen (2014), *Science Education* 98(3), pp. 461–475 (esp. Table 1, p. 473). Clough & Herman (2017), in Shepardson et al. (eds.), *Teaching and Learning about Climate Change*, pp. 19–24.
 
 ## Questions to think about
 1. Which value judgements sit between "temperatures will rise 2 °C" and "this is a crisis"? Whose values are they?

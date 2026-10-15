@@ -64,6 +64,16 @@ Climate science found four substitutes for the controlled experiment:
 
 None of these is as clean as a laboratory experiment. Nevertheless, when they agree with each other, together they provide strong grounds for confidence — and it is on this agreement that climate science's authority rests.
 
+## Nature of science: what climate adds
+
+**The textbook statements.** "Science models, laws, mechanisms, and theories explain natural phenomena." The NSTA distinguishes laws, which are "generalizations or universal relationships", from theories, which are "inferred explanations" of those laws, and uses Boyle's law as its example (NSTA 2020, p. 3). It also says that "all scientific knowledge is a combination of observations and inferences", with weather forecasting as its illustration (p. 2).
+
+**What the climate case adds.** There is no "law of climate" in the NSTA's sense, and climate science does not aim at one; its aim is a consistent story of change on one planet. The distinction between laws and theories, central to the list, therefore does little work here. What does the work is the agreement between the four substitutes for experiment described above — the past, the model, the global data set and the passage of time. None of these is decisive alone, and the strength lies in their agreement, often across disciplines: radiation physics, fluid dynamics, geology and glaciology. Clough and Herman list misunderstanding "how interdisciplinary support bolsters confidence in conclusions" and misunderstanding "the development, character, and role of models" among the NOS issues that affect how climate science is received (2017, p. 17).
+
+The line between observation and inference is also less tidy than the list suggests. The global mean temperature is assembled from millions of observations, but filling the gaps in the record requires models, and so the "observed" warming already contains inference. Ryder's question, which Allchin and colleagues quote as a model for what citizens need — what are "the assumptions within a model"? (2014, p. 463) — is the right question to ask of both.
+
+**For the science classroom.** In school, a model is often a picture of something that cannot be seen, such as an atom. In climate science it is a laboratory: Manabe doubled CO₂ in a model because nobody can do it to the planet. Teaching models as tools for asking "what if?", whose assumptions can be listed and examined, prepares students to judge climate projections without either trusting them blindly or dismissing them as "just models". Clough and Herman also ask that teacher preparation give attention to "how substantiated ideas from several fields may coalesce in a way that provides overwhelming evidence for a complex phenomenon like climate change" (2017, p. 22). The four substitutes for experiment in this lecture can serve as a framework for such teaching.
+
 ## Key terms
 natural history (as a mode of science) · local vs global climate change · cloud classification · erratics · greenhouse effect · climate sensitivity · general circulation model (GCM) · Keeling Curve · the global environment · natural experiment · model as laboratory
 
@@ -74,6 +84,7 @@ natural history (as a mode of science) · local vs global climate change · clou
 - **Companion (models):** Edwards (2011), "History of climate modeling", *WIREs Climate Change* 2, pp. 128–137. Short version: pp. 131–133 and 136–137.
 - **Optional (around 1800):** Holmes, *The Age of Wonder* (2008), Ch. 3 "Balloonists in Heaven", pp. 145–162 (Jeffries, Howard, the view from above; US Pantheon edition pagination). Wulf, *The Invention of Nature* (2015), Ch. 4, the Lake Valencia section (*by section*; the ebook has no printed page numbers).
 - **Optional (the nineteenth century):** Fleming, *Historical Perspectives on Climate Change* (1998), Ch. 5 "Joseph Fourier's Theory of Terrestrial Temperatures", pp. 55–64.
+- **For teachers:** Clough & Herman (2017), in Shepardson et al. (eds.), *Teaching and Learning about Climate Change*, pp. 17–19 and 22–23 (models, and evidence from several fields).
 
 ## Questions to think about
 1. Name three things a climate scientist cannot do that a chemist can. What does each of these do to the kind of certainty available?

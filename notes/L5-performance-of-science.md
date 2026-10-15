@@ -75,6 +75,16 @@ Hulme's conclusion is that "We should not hide behind science when difficult eth
 
 Recall Lecture 1. The mechanical philosophers promised that disinterested knowledge could settle disputes. Thus, what we have seen in this lecture are the limits of that promise.
 
+## Nature of science: what climate adds
+
+**The textbook statements.** "Scientific knowledge is simultaneously reliable and subject to change." The NSTA explains that "because scientific knowledge is partly the result of inference, creativity, and subjectivity, it is subject to change", and that "some subjectivity is unavoidable and often beneficial" (NSTA 2020, p. 2).
+
+**What the climate case adds.** The list says that knowledge is *both* reliable and tentative, but not how much confidence a particular claim deserves. Climate science has had to answer that question in public, and this lecture shows how: predictions checked against later data, independent lines of evidence and a calibrated vocabulary in which "likely" and "virtually certain" mean different things. The confidence ladder from 1990 to 2021 is tentativeness and reliability made quantitative. Without it, the statement "science is tentative" is easily read as "science is unsure, so wait" — which is how it was used against climate science (Lecture 7). Clough and Herman name this directly as an NOS issue: the mistaken belief "that science, when well done, leads to absolute certainty and that public action is not warranted until such certainty is established" (2017, p. 17). Against it they set the view "that overwhelming confidence without absolute certainty is the best that can be achieved with complex phenomena" (pp. 18–19).
+
+The subjectivity statement is sharpened in the same way. Tuning involves value judgements, and yet the projections held. What made the difference is the step from what Clough and Herman call *private* science, where an individual's biases operate, to *public* science, where methods and data are scrutinised by others and those biases are "significantly diminished" (2017, p. 18). The IPCC is an institution for exactly that step, with its own weaknesses (who sits at the table, the risk of understating uncertainty).
+
+**For the science classroom.** Most students, and most adults, will never evaluate climate data themselves. What they will do is decide whom to believe. Allchin and colleagues put "assessing the trustworthiness and reliability of scientific claims in a public setting" at the centre of NOS teaching (2014, p. 463), and Clough and Herman ask that students learn to "assess which experts are credible and why" (2017, pp. 21–22). Teaching tentativeness on its own is therefore not enough. It should be paired with an account of how confidence is graded and earned, for which the IPCC's ladder and Hausfather's test of old projections are ready-made classroom material.
+
 ## Key terms
 out-of-sample test · lines of evidence · climate sensitivity · parameterisation and tuning · calibrated uncertainty language · epistemic / aleatoric / scenario uncertainty · post-normal science · boundary organisation · consensus · decisionist / technocratic / co-production · forcing function of knowledge · objectivity vs neutrality · Type I / Type II error
 
@@ -85,6 +95,7 @@ out-of-sample test · lines of evidence · climate sensitivity · parameterisati
 - **Companion:** Hulme, *Weathered* (2017), Ch. 9 "Predicting Climate", pp. 107–118.
 - **Extension (tuning):** Mauritsen & Roeckner (2020), "Tuning the MPI-ESM1.2 global climate model … by lowering its climate sensitivity", *JAMES* 12, pp. 1–3 and 7–9. Sherwood et al. (2020), "An assessment of Earth's climate sensitivity using multiple lines of evidence", *Reviews of Geophysics* 58, pp. 1–4 only.
 - **For debate:** Hulme (ed.), *Contemporary Climate Change Debates* (2019), Ch. 9, "Is emphasising consensus in climate science helpful for policymaking?", pp. 127–145.
+- **For teachers:** Clough & Herman (2017), in Shepardson et al. (eds.), *Teaching and Learning about Climate Change*, pp. 18–22 (certainty, private vs public science, judging experts).
 
 ## Questions to think about
 1. Why is a model's match to warming *after* its projection was published stronger evidence than its match to the warming that came before?

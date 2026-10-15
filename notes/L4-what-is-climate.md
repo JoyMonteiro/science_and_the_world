@@ -60,6 +60,14 @@ Neither of these covers the scale at which politics actually happens. This is on
 1. **This is not relativism.** Saying that climate has many meanings does not make the physical meaning false. Global warming is real and largely human-caused.
 2. **"Local" is not automatically just.** Local and traditional knowledge can also carry exclusions, of caste or gender, for example.
 
+## Nature of science: what climate adds
+
+**The textbook statements.** "Science addresses questions about the natural and material world" and "Science is a way of knowing", distinguished in the NSTA statement "from other ways of knowing" (NSTA 2020, pp. 2, 4). The NSTA also says that science "must be the sole focus of instruction in science classes to the exclusion of all nonscientific or pseudoscientific methods, explanations, generalizations, and products" (p. 2), while acknowledging that contributions to science "have been made by people the world over" (p. 3).
+
+**What the climate case adds.** The list draws a line between science and other ways of knowing. In climate, that line runs through the concept itself. The physical meaning of climate rests on conventions (a 30-year "normal"), and the cultural meaning — what the weather of a place means to those who live there — is not a rival theory of the atmosphere but an answer to a different question. Allchin and colleagues criticise consensus lists for mixing claims about what knowledge is with claims about what the world is (2014, p. 463), and climate shows why this matters: before asking whether a claim is scientific, we need to ask what *kind* of object climate is. The lecture's account of scale-dependent authority suggests a more useful question than "science or not?": which kind of knowledge is authoritative for *which* question, at *which* scale? Global energy balance and a farmer's sense of when the monsoon "should" arrive are not competing for the same ground.
+
+**For the science classroom.** Students arrive with first- and second-hand knowledge of climate: the year the river flooded, the summers that seem hotter than they used to. Read literally, the NSTA's exclusion clause leaves a teacher with nothing to say about this knowledge except that it is not science. An alternative is to treat it as evidence about a different scale and a different question, and to use the two guardrails above: this is not relativism, and local knowledge is not automatically just. Clough and Herman argue that NOS teaching should help students "navigate their own and others' socio-cultural biases" (2017, pp. 21–22), which is difficult to do if those students' own experience of climate is ruled out of the classroom.
+
 ## Key terms
 climate as an idea · climatic normal · climatic determinism · first-, second- and third-hand knowledge · view from nowhere / view from somewhere · scale-dependent authority · thermodynamic vs dynamic change · event attribution
 
@@ -69,6 +77,7 @@ climate as an idea · climatic normal · climatic determinism · first-, second-
 - **Alternative:** Hulme, *Why We Disagree About Climate Change* (2009), Ch. 1, §§1.1–1.4 and 1.6.
 - **For debate:** Hulme (ed.), *Contemporary Climate Change Debates* (2019), Ch. 3, "Should individual extreme weather events be attributed to human agency?", pp. 36–50 (Otto *for*, Lusk *against*).
 - **Extension:** Mahony & Hulme (2018), "Epistemic geographies of climate change", *Progress in Human Geography* 42, pp. 395–424.
+- **For teachers:** NSTA (2020), *Nature of Science* position statement (6 pp.). Read it against this lecture: where does it draw the line between science and other ways of knowing?
 
 ## Questions to think about
 1. List one piece of your own climate knowledge for each of: first-hand, second-hand, third-hand.

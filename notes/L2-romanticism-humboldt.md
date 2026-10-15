@@ -86,12 +86,23 @@ The two traditions met the public, their patrons and the state in different ways
 
 **A guardrail.** None of this means that science is "just culture". The outlook of a culture shaped *which questions were asked, how scientists presented themselves and to whom they spoke*. It did not decide which answers survived. Goethe, the great Romantic, held a theory of the Earth's rocks that Humboldt himself abandoned after seeing volcanoes. Herschel's Uranus was recognised slowly, through weeks of checking, and not in a flash of genius. And Davy's lamp worked because methane behaves the way it does, whatever the culture of the person who designed the lamp. Thus, while different cultures produced different sciences, evidence continued to discipline each of them.
 
+## Nature of science: what climate adds
+
+**The textbook statements.** "Scientific investigations use a variety of methods" (NSTA 2020, p. 3), which the NSTA elsewhere lists as "descriptive, correlational, and experimental designs" (p. 1). Also: science "affects society and cultures, and it is affected by the society and culture within which it occurs" (p. 3).
+
+**What the climate case adds.** The list presents methods as items on a menu, all equally available. The history in this lecture shows that methods came with a *rank*: from Newton onward, the experimental and mathematical sciences sat at the top, and Romantic philosophy had to argue for the dignity of a science of the whole. Humboldt's method — measuring everywhere, comparing across continents and averaging — produced an object, climate, that never appears in any single observation. This is a different relation between evidence and conclusion from Davy's, where the gas either does or does not explode. Climate science inherits the lower-ranked method. Seen in this light, the teachers' belief that climate science must rest on controlled experiments (Lecture 1; Clough & Herman 2017, p. 16) looks like the old hierarchy still at work.
+
+The statement that culture affects science is also true but incomplete. Britain and the German lands show *where* culture acts — on the questions asked, the persona of the scientist, the audience and the patron — and the guardrail above shows where it stops: evidence decided which answers survived. A student who has learned only that "science is culturally embedded" has no way to tell these two apart. The inventory Allchin and colleagues' teachers worked from treats culture and funding as separate, specific features to be looked for in a case (2014, p. 477), and the five lessons above are examples of each.
+
+**For the science classroom.** Clough and Herman find that understanding the legitimacy of "observational as opposed to controlled experiments, triangulation of disparate data sources, modeling" is tied to accepting climate science (2017, p. 18). One way to teach this is to set an experimental and a field investigation of the same topic side by side — a plant grown in a pot under controlled light, and the same plant surveyed along a hillside, as Humboldt did — and ask students what each can and cannot show. The comparison of Britain and Germany offers a second lesson for teachers: the claim "science is affected by culture" should come with a guardrail, or students may conclude that it is *only* culture.
+
 ## Key terms
 Romantic natural philosophy · organising principle · archetype · hierarchy of the sciences · *Naturphilosophie* · self-experimentation · public lecture / spectacle · patronage · terrestrial physics / Humboldtian science · equilibrium of forces · isotherm · professionalisation · "scientist" (1833–34)
 
 ## Readings
 - **Core:** Nicolson, "Alexander von Humboldt and the geography of vegetation", in Cunningham & Jardine (eds.), *Romanticism and the Sciences* (1990), pp. 169–185.
 - **Paired reading (half the class each, then compare):**
+- **For teachers:** Allchin, Andersen & Nielsen (2014), *Science Education* 98(3), pp. 469–472 and 474–475 (what historical cases can and cannot teach about NOS).
   - Holmes, *The Age of Wonder* (2008), Ch. 6 "Davy on the Gas", pp. 250–273 and 285–292 (Bristol, self-experiment, the Royal Institution; US Pantheon edition pagination; give the chapter title if your copy differs).
   - Wulf, *The Invention of Nature* (2015), Ch. 2 "Imagination and Nature: Goethe and Humboldt" (*by chapter*; the ebook has no printed page numbers).
 - **Short companions:** Knight, "Romanticism and the sciences", in Cunningham & Jardine, pp. 14–19. Lawrence, "The power and the glory: Humphry Davy and Romanticism", same volume, pp. 213–227. Strobl (2021), "Alexander von Humboldt's Climatological Writings", pp. 388–389.

@@ -45,11 +45,15 @@ Thus, both the facts and the warning were present in the report — but they wer
 - On 23 June 1988, during a record heat wave, Hansen told the US Senate that it was "time to stop waffling", and global warming became front-page news.
 - Later in 1988 two UN agencies, the World Meteorological Organization and the UN Environment Programme, set up the IPCC. Unlike the invited experts at Villach and Toronto, its members were *government* representatives. Some US officials favoured this design because they expected a lengthy process to slow action.
 
-## The NOS lesson
+## Nature of science: what climate adds
 
-The restraint we have seen here was not simply a personality trait of cautious scientists. It was built into **institutions** — into funding, peer norms, who sat on panels and which document said what. The question "should scientists say what their findings mean?" therefore has no purely scientific answer.
+**The textbook statements.** "Science is a human endeavor" (NSTA 2020, p. 4). The NSTA explains that the questions asked, the observations made and the conclusions drawn are influenced by "the social and cultural context of the researcher, and the observer's experiences and expectations" (p. 3).
+
+**What the climate case adds.** The list places social influence mainly in the individual researcher — their context, experiences and expectations. The history of 1956–1988 places it in **institutions**: in funding, in peer norms, in who sat on panels and in which document said what. The restraint we have seen here was not simply a personality trait of cautious scientists, and the question "should scientists say what their findings mean?" therefore has no purely scientific answer. We note, too, that the influence acted less on what was *found* than on what was *said* in public. The Charney report contains both the facts and the warning, placed in different sections under different authors. "The funding sources of scientists", which Allchin and colleagues quote as something every citizen should ask about (2014, p. 463), is the most visible part of this, but not the whole of it.
 
 Nor is this new (Lecture 2). In the 1790s William Herschel seems to have toned down his speculations about an evolving universe as fear of radical science grew in Britain, and in 1819 the surgeon William Lawrence withdrew his book on the physical basis of life under pressure from his profession. The pressures of the 1970s and 1980s were different — funding, panel membership, government sponsors — but the underlying pattern, in which institutions shape what scientists say in public, is an old one.
+
+**For the science classroom.** If social influence is taught only as personal bias, students have two options when they meet it: deny it, or conclude that the science is corrupt. Clough and Herman argue that suspicion of climate science after "climategate" reflected exactly this kind of naïve view, which overlooks how individual biases in "private science" are reduced when "methods, data, and ideas are scrutinized by the wider scientific community" (2017, p. 18). The history in this lecture offers a third option: to describe the institutions through which science speaks, and to ask what each one encourages and discourages. The Charney exercise below is a model for a classroom activity of this kind, and it requires no climate science beyond what is in the report itself.
 
 ## Key terms
 scientific reticence · forcing function of knowledge · the Charney report · climate sensitivity · Villach / Toronto · Hansen's testimony
@@ -58,6 +62,7 @@ scientific reticence · forcing function of knowledge · the Charney report · c
 - **Core (primary source):** Charney et al., *Carbon Dioxide and Climate: A Scientific Assessment* (1979), Foreword and Preface (pp. vii–x), Summary (pp. 1–3), pp. 16–17.
 - **Core (history):** Howe, *Behind the Curve* (2014), Ch. 4 "Climate, the Environment, and Scientific Activism", pp. 93–117.
 - **Companion:** Howe, Ch. 3 "Making the Global Environment", pp. 67–92. Weart, *The Discovery of Global Warming* (2008), pp. 146–153.
+- **For teachers:** Allchin, Andersen & Nielsen (2014), *Science Education* 98(3), pp. 462–463 (NOS for judging claims in public, including who funds the science).
 
 ## In class
 Compare the Charney report's foreword (pp. vii–viii) with its summary (p. 2). Circle every *addressee* (who is being spoken to), every *modal* (may, must, should) and every *metaphor*. What does the foreword add that the body does not?

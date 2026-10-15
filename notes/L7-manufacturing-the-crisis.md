@@ -58,6 +58,16 @@ Only then did the science work out what these targets meant. We emphasise that t
 
 By 2018, the IPCC's own report opened by calling climate change "an urgent and potentially irreversible threat". "Climate emergency" went mainstream in 2019. By 2024, UNESCO's curriculum guidance listed "scientifically accurate" and "conveys urgency" side by side as qualities of good teaching material. Thus, the crisis frame had become so normal that it was no longer visible as a frame at all.
 
+## Nature of science: what climate adds
+
+**The textbook statements.** The same two as in Lecture 5 — scientific knowledge is reliable *and* open to revision — together with the statement that science "affects society and cultures, and it is affected by the society and culture within which it occurs" (NSTA 2020, pp. 2–3).
+
+**What the climate case adds.** This lecture shows the NOS statements being *used*, by people outside science, for purposes of their own. The 1990 White House memo's advice "to raise the many uncertainties" turned the tentativeness of science into a reason for delay, and the journalistic convention of two equal sides turned the openness of science into a false balance. Clough and Herman note this pattern in general: "some policy-makers and business people use uncertainty to create unreasonable doubt and inaction on public policy matters" (2017, p. 23). The crisis frame that followed was assembled by a different group — Paglia's interactional experts — who took the *is* from the science and supplied the *ought*.
+
+What the list leaves out is precisely who speaks for science, through which channels and with what authority. Allchin and colleagues note the criticism that consensus lists "ignore the communicative aspects of science" (2014, p. 463), and the teachers in their project added the credibility of journals and news media to their inventory (p. 477). The distinction between contributory and interactional experts is the climate case's version of this feature.
+
+**For the science classroom.** In one US survey, 85 % of participants supported teaching "both sides" of the public controversy over climate science (Clough & Herman 2017, p. 16). Clough and Herman's reply is that teaching climate "does not mean teaching 'both sides' as credible ideas, but rather accurately portraying the nature of science and the overwhelming scientific evidence" (p. 24). The other half of this lecture has a lesson for teachers as well. By 2024 UNESCO was listing "scientifically accurate" and "conveys urgency" side by side as qualities of good teaching material. A teacher who chooses crisis vocabulary is taking the step from *is* to *ought* in front of the class. That step can be defended, but it should be made visibly, so that students can tell the scientific finding from the judgement added to it. The lexicon ladder exercise above is one way to do this.
+
 ## Key terms
 boundary organisation · lowest-common-denominator consensus · manufactured doubt · economic precautionary principle · contributory vs interactional experts · iconic numbers · scientific reticence
 
@@ -65,6 +75,7 @@ boundary organisation · lowest-common-denominator consensus · manufactured dou
 - **Core (primary sources):** Pittock (2006), "Are scientists underestimating climate change?", *Eos* 87, p. 340 (2 pp.). Paglia (2018), "The Socio-scientific Construction of Global Climate Crisis", *Geopolitics* 23(1), pp. 103–112.
 - **Core (history):** Howe, *Behind the Curve* (2014), Ch. 6 "The IPCC and the Primacy of Science", pp. 147–169.
 - **Extension:** Howe, Ch. 7 "The Gospel of the Market", pp. 170–196. Weart (2008), pp. 156–157, 193–196.
+- **For teachers:** Clough & Herman (2017), in Shepardson et al. (eds.), *Teaching and Learning about Climate Change*, pp. 23–24 (uncertainty as a tool for delay; why not to teach "both sides").
 
 ## In class: the lexicon ladder
 Search for *crisis, catastrophe, emergency, threat, danger, disaster, urgent* in: (1) the 1979 Charney summary; (2) Bolin's 2007 statement; (3) the IPCC 2018 FAQ 1.1; (4) UNESCO 2024 guidance. What changes, and when? Then set it beside the *confidence ladder* from Lecture 5 ("discernible" 1995 → "unequivocal" 2021). Did the crisis words arrive when the scientific confidence rose, or at some other time?
