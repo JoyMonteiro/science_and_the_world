@@ -15,7 +15,7 @@ The notes below are first drafts and will change during the semester. Start with
 
 1. **[What the mechanical philosophers promised](notes/L1-mechanical-philosophy.html)**
    *[date]* · What makes a claim about nature reliable, and why was reliability wanted?
-2. **[The Romantic departure: Humboldt](notes/L2-romanticism-humboldt.html)**
+2. **[The Romantic departure: one Europe, two sciences](notes/L2-romanticism-humboldt.html)**
    *[date]* · Do experimental and field sciences work the same way?
 3. **[From climates to the climate, 1800–1979](notes/L3-bridge-climates-to-the-climate.html)**
    *[date]* · How do you do science on a single planet you cannot experiment on?

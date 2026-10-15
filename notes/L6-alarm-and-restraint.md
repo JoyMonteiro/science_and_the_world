@@ -47,6 +47,8 @@ The facts and the warning were both there. They were placed in different parts o
 
 Restraint here was not just a personality trait of cautious scientists. It was built into **institutions**: funding, peer norms, who sat on panels, and which document said what. The question "should scientists say what their findings mean?" has no purely scientific answer.
 
+This is not new (Lecture 2). In the 1790s William Herschel seems to have toned down his speculations about an evolving universe as fear of radical science grew in Britain. In 1819 the surgeon William Lawrence withdrew his book on the physical basis of life under pressure from his profession. The pressures in the 1970s and 80s were different (funding, panel membership, government sponsors), but the pattern, institutions shaping what scientists say in public, is old.
+
 ## Key terms
 scientific reticence · forcing function of knowledge · the Charney report · climate sensitivity · Villach / Toronto · Hansen's testimony
 

@@ -1,5 +1,5 @@
 ---
-title: "Lecture 3 — Bridge: from climates to the global climate, 1800–1979"
+title: "Lecture 3 — Bridge: from climates to *the* global climate, 1800–1979"
 ---
 
 **The question for today:** How do you do science on a single planet that you cannot experiment on?
@@ -11,6 +11,18 @@ Physics and chemistry look for timeless laws and test them with repeatable exper
 ## Early ideas: climates were local, and humans could change them
 
 Eighteenth- and early nineteenth-century writers often thought humans changed climate *locally*: clearing forests and cultivating land would "improve" a region's climate, and with it health and civilisation. There were long debates over whether the American climate was worse than Europe's. Other ideas looked to the land itself: continents newly emerged from the ocean, or a comet shifting the Earth's axis.
+
+Humboldt (Lecture 2) argued the opposite direction. In February 1800, at Lake Valencia in Venezuela, he found a lake with no outlet whose level was falling. Land that had been under water twenty years earlier was now farmed. He blamed forest clearing and the diversion of streams for plantation irrigation: without trees the soil could not hold water, and springs dried up. Late in life he listed three human influences on climate: deforestation, irrigation, and "great masses of steam and gas" from industrial centres. His biographer Andrea Wulf calls Lake Valencia the birth of "human-induced climate change". Be careful with that phrase. What Humboldt described was *local* land use changing water, soil and the local air. In his sense of the word (Lecture 2: climate as what "affects our organs") that is climate change. In the modern sense, the radiative effect of greenhouse gases on the global climate, it is not, and he did not anticipate it.
+
+## Romantic eyes on the sky
+
+The decades around 1800 also changed how people looked *up*. Three episodes, each a different answer to this lecture's question:
+
+- **Go and measure it.** The first balloon flights (1783) were mass spectacles; within a year the American physician John Jeffries had turned the balloon into an instrument platform. On his 1784 flight he carried a barometer, thermometer, hygrometer and electrometer, and flasks to sample the air at height for Henry Cavendish, and logged readings at regular intervals. In 1804 Gay-Lussac rose to about 7,000 m over Paris. The atmosphere became a place you could visit with instruments. Balloonists also hoped to find steady winds at fixed heights that could be mapped and used for steering; the hope failed.
+- **Name it.** In 1803 Luke Howard, a Quaker pharmacist and amateur, classified clouds with Linnaean Latin: cirrus, cumulus, stratus, and their combinations. The cataloguing method of Enlightenment botany was applied to the most changeable thing in nature. Goethe was delighted: Howard had fixed "what had always been ephemeral" by observing and naming it. Painters (Constable, Turner) and poets (Shelley) took up his clouds. This is one of the few places where British and German Romantic science meet over the same object.
+- **Correlate it.** In 1801 the astronomer William Herschel proposed that sunspots affected the mildness of seasons and therefore the price of wheat. With no way to experiment on the Sun, he compared two records. Sun–climate correlations have a long history of appearing and then failing to hold up as records lengthen; correlation is a substitute for experiment, but a weak one.
+
+Holmes, whose book is the source for these episodes, suggests that the Romantics "invented the idea of 'the weather'" as something to be preoccupied with. That is a striking claim rather than a proven one: weather diaries and instrument networks are older. But it is true that wonder at the sky, and measurement of it, grew up together.
 
 ## Ice ages: evidence that wasn't heard
 
@@ -51,17 +63,19 @@ Climate science found four substitutes for the controlled experiment:
 None of these is as clean as a lab experiment. Together, when they agree, they give strong confidence. That agreement is what climate science's authority rests on.
 
 ## Key terms
-natural history (as a mode of science) · erratics · greenhouse effect · climate sensitivity · general circulation model (GCM) · Keeling Curve · the global environment · natural experiment · model as laboratory
+natural history (as a mode of science) · local vs global climate change · cloud classification · erratics · greenhouse effect · climate sensitivity · general circulation model (GCM) · Keeling Curve · the global environment · natural experiment · model as laboratory
 
 ## Readings
 - **Core:** Howe, *Behind the Curve: Science and the Politics of Global Warming* (2014), Introduction (pp. 1–15) and Ch. 1, "The Cold War Roots of Global Warming" (pp. 16–43).
 - **Alternative (covers the nineteenth century):** Hulme, *Why We Disagree About Climate Change* (2009), Ch. 2, from "2.4 Anthropogenic Climate Change" to the end of the chapter.
 - **Companion:** Weart, *The Discovery of Global Warming* (2008), Ch. 3 "A Delicate System", pp. 30–62.
 - **Companion (models):** Edwards (2011), "History of climate modeling", *WIREs Climate Change* 2, pp. 128–137. Short version: pp. 131–133 and 136–137.
+- **Optional (around 1800):** Holmes, *The Age of Wonder* (2008), Ch. 3 "Balloonists in Heaven", pp. 145–162 (Jeffries, Howard, the view from above; US Pantheon edition pagination). Wulf, *The Invention of Nature* (2015), Ch. 4, the Lake Valencia section (*by section*; the ebook has no printed page numbers).
 - **Optional (the nineteenth century):** Fleming, *Historical Perspectives on Climate Change* (1998), Ch. 5 "Joseph Fourier's Theory of Terrestrial Temperatures", pp. 55–64.
 
 ## Questions to think about
 1. Name three things a climate scientist cannot do that a chemist can. What does each of these do to the kind of certainty available?
 2. Who paid for the first CO₂ measurements, and why? Does who pays matter for what is found?
 3. Is a computer simulation an experiment, an observation, or something else?
-4. You have never seen the global mean temperature. How do you know it exists?
+4. Humboldt said clearing forests changed the climate at Lake Valencia. Was he right? In what sense of "climate"?
+5. You have never seen the global mean temperature. How do you know it exists?

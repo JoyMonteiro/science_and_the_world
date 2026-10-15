@@ -40,6 +40,10 @@ The historian Steven Shapin ends his book with a paradox. Natural knowledge was 
 
 Keep this in mind. It is exactly what is asked of climate science today, and it is also why climate science comes under such pressure.
 
+## Looking ahead: the same experiment, a century later
+
+In 1768 the painter Joseph Wright of Derby showed Boyle's air pump being demonstrated by candlelight to a family. A bird is dying in the evacuated glass; a child hides her eyes; the lecturer looks straight out at us. The experiment is the same one Boyle performed. The mood is not calm reason but wonder and unease. Lecture 2 asks what happened to science when its culture changed in this way.
+
 ## Key terms
 mechanical philosophy · teleology · primary/secondary qualities · proximate vs ultimate cause · natural history (in Bacon's sense) · virtual witnessing · disinterestedness
 

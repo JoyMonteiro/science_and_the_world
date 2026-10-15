@@ -61,6 +61,8 @@ The Intergovernmental Panel on Climate Change (founded 1988) is a **boundary org
 
 The historian Joshua Howe calls the technocratic hope the **"forcing function of knowledge"**: the belief that better science would *force* political action. As one scientist put it in the 1970s, "A worldwide scientific consensus … will be the forcing function for the difficult political decisions." The next two lectures show how that hope played out.
 
+Performance has long roots (Lecture 2). Davy's lectures at the Royal Institution packed London's streets with carriages, and Humboldt made pictures of the whole Earth because, as he said, "the world likes to see". Science has always had to be shown as well as done. What is new with the IPCC is that the performance is of *agreement*, staged by an institution, not of a discovery staged by a person.
+
 A useful distinction from Robert Proctor: **objectivity** is whether science's claims are reliable. **Neutrality** is whether science takes a stand. They are not the same. A science can be objective and still not neutral.
 
 ## Models as prophets

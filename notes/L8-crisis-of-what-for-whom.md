@@ -63,3 +63,4 @@ normative vs cognitive · is/ought · tornado politics · scientizing values · 
 3. Take a recent "climate emergency" declaration by a city or ministry. What does it bring into view, and what does it hide?
 4. For someone whose normal life is already precarious, does "climate crisis" describe their situation? What word would?
 5. Apply the two tests to a climate claim you have seen this week.
+6. Andrea Wulf ends her biography of Humboldt by citing the IPCC and calling on environmentalists to "reclaim" him as their hero. Is enlisting a historical figure for a present cause a claim about evidence, about interest, or both? (Compare what Humboldt actually meant by climate, Lecture 2.)
