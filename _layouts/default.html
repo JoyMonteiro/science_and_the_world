@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="stylesheet" href="{{ '/css/site.css' | relative_url }}">
+</head>
+<body>
+  {% comment %} Note pages get a link home and prev/next, ordered by file name (L0, L1, …). {% endcomment %}
+  {% if page.dir == "/notes/" %}
+    {% assign notes = site.pages | where: "dir", "/notes/" | sort: "path" %}
+    {% for n in notes %}{% if n.url == page.url %}{% assign i = forloop.index0 %}{% endif %}{% endfor %}
+    {% assign prev_i = i | minus: 1 %}{% assign next_i = i | plus: 1 %}
+    {% capture notenav %}
+    <nav class="notenav">
+      <a href="{{ '/' | relative_url }}">Course page</a>
+      <span>
+        {% if i > 0 %}<a href="{{ notes[prev_i].url | relative_url }}">← Previous</a>{% endif %}
+        {% if next_i < notes.size %}<a href="{{ notes[next_i].url | relative_url }}">Next →</a>{% endif %}
+      </span>
+    </nav>
+    {% endcapture %}
+  {% endif %}
+  {{ notenav }}
+  <header>
+    <h1>{{ page.title | default: site.title }}</h1>
+    {% if page.subtitle %}<p class="subtitle">{{ page.subtitle }}</p>{% endif %}
+  </header>
+  <main>
+{{ content }}
+  </main>
+  {{ notenav }}
+  {% if page.footer %}<footer>{{ page.footer | markdownify }}</footer>{% endif %}
+</body>
+</html>
